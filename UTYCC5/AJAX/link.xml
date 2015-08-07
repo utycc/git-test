@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- Edited by XMLSpy® -->
+<pages>
+ <link>
+  <title>Google</title>
+  <url></url>">http://www.google.com</url>
+ </link>
+ <link>
+  <title>Naver</title>
+  <url></url>">http://www.naver.com</url>
+  </link>
+ <link>
+  <title>Daum</title>
+  <url></url>">http://www.daum.net</url>
+ </link>
+ <link>
+  <title>Nate</title>
+  <url></url>">http://www.nate.com</url>
+ </link>
+ <link>
+  <title>Park's blog</title>
+  <url></url>">http://blog.naver.com/makand123</url>
+ </link>
+ <link>
+  <title>Zum</title>
+  <url></url>">http://www.zum.com/</url>
+ </link>
+</pages>
